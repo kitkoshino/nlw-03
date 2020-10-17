@@ -14,7 +14,7 @@ A aplicação permite criar novos registros de casas com os dados, imagens e loc
 ### :computer: Aplicação Web
 
 <p align="center">
-<img src="./assets/web-imgs.png" width="480" />
+<img src="./assets/web-imgs.png" width="580" />
 </p>
 
 ### :iphone: Aplicação Mobile
@@ -41,11 +41,6 @@ A aplicação permite criar novos registros de casas com os dados, imagens e loc
 <br />
 
 # :video_game: Run
-
-```bash
-    # Clone repository
-    $ git clone https://github.com/kitkoshino/nlw-02.git
-```
 
 ### Run API
 -  Server folder
