@@ -11,13 +11,13 @@ A aplicação permite criar novos registros de casas com os dados, imagens e loc
  </p>
 <br />
 
-## :computer: Aplicação Web
+### :computer: Aplicação Web
 
 <p align="center">
 <img src="./assets/web-imgs.png" width="480" />
 </p>
 
-## :iphone: Aplicação Mobile
+### :iphone: Aplicação Mobile
 
 <p align="center">
 <img src="./assets/mobile-imgs.png" width="480" />
