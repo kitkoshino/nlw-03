@@ -6,7 +6,7 @@
 <br />
 
 # Proposta
-<p>Desenvolver uma aplicação web e mobile para agendar visitaa a casas de acolhimento de crianças.
+<p>Desenvolver uma aplicação web e mobile para agendar visita a casas de acolhimento de crianças.
 A aplicação permite criar novos registros de casas com os dados, imagens e localização para a visitação.
  </p>
 <br />
